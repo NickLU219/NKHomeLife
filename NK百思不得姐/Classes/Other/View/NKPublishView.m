@@ -43,8 +43,8 @@ static UIWindow *kWindow;
     self.userInteractionEnabled = NO;
 
     // 数据
-    NSArray *images = @[@"publish-video", @"publish-picture", @"publish-text", @"publish-audio", @"publish-review", @"publish-offline"];
-    NSArray *titles = @[@"发视频", @"发图片", @"发段子", @"发声音", @"审帖", @"离线下载"];
+    NSArray *images = @[@"publish-video", @"publish-text", @"publish-picture", @"publish-audio", @"publish-review", @"publish-offline"];
+    NSArray *titles = @[@"发视频", @"发说说", @"发图片", @"发声音", @"审帖", @"离线下载"];
 
     // 中间的6个按钮
     int maxCols = 3;

@@ -29,8 +29,8 @@
 
     [self.window makeKeyAndVisible];
 
-    [NKPushGuideView show];
-    NKLodFunc;
+//    [NKPushGuideView show];
+//    NKLodFunc;
     return YES;
 }
 

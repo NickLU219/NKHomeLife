@@ -338,9 +338,9 @@
 		E30B176E1C5281F4002554AC = {
 			isa = PBXGroup;
 			children = (
-				E30B17791C5281F4002554AC /* NK百思不得姐 */,
-				E30B17931C5281F5002554AC /* NK百思不得姐Tests */,
-				E30B179E1C5281F5002554AC /* NK百思不得姐UITests */,
+				E30B17791C5281F4002554AC /* NKHomelife */,
+				E30B17931C5281F5002554AC /* NKHomeLifeTests */,
+				E30B179E1C5281F5002554AC /* NKHomeLifeUITests */,
 				E30B17781C5281F4002554AC /* Products */,
 				8D040E85E8398929D3AF7256 /* Pods */,
 				125D0B95050EA25702571F63 /* Frameworks */,
@@ -357,12 +357,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E30B17791C5281F4002554AC /* NK百思不得姐 */ = {
+		E30B17791C5281F4002554AC /* NKHomelife */ = {
 			isa = PBXGroup;
 			children = (
 				E30B17CF1C531D8C002554AC /* Classes */,
 				E30B177A1C5281F4002554AC /* Supporting Files */,
 			);
+			name = NKHomelife;
 			path = "NK百思不得姐";
 			sourceTree = "<group>";
 		};
@@ -375,21 +376,23 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		E30B17931C5281F5002554AC /* NK百思不得姐Tests */ = {
+		E30B17931C5281F5002554AC /* NKHomeLifeTests */ = {
 			isa = PBXGroup;
 			children = (
 				E30B17941C5281F5002554AC /* NK_____Tests.m */,
 				E30B17961C5281F5002554AC /* Info.plist */,
 			);
+			name = NKHomeLifeTests;
 			path = "NK百思不得姐Tests";
 			sourceTree = "<group>";
 		};
-		E30B179E1C5281F5002554AC /* NK百思不得姐UITests */ = {
+		E30B179E1C5281F5002554AC /* NKHomeLifeUITests */ = {
 			isa = PBXGroup;
 			children = (
 				E30B179F1C5281F5002554AC /* NK_____UITests.m */,
 				E30B17A11C5281F5002554AC /* Info.plist */,
 			);
+			name = NKHomeLifeUITests;
 			path = "NK百思不得姐UITests";
 			sourceTree = "<group>";
 		};

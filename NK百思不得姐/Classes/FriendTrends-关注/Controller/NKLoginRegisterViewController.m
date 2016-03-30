@@ -48,4 +48,15 @@
 - (UIStatusBarStyle)preferredStatusBarStyle {
     return UIStatusBarStyleLightContent;
 }
+
+#pragma mark - Login
+- (IBAction)login:(id)sender {
+    NKLodFunc
+}
+
+#pragma mark - Register
+- (IBAction)register:(id)sender {
+    NKLodFunc
+}
+
 @end
